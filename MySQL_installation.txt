@@ -1,0 +1,18 @@
+Steps to install Mysql.
+1} Go to - https://www.mysql.com/downloads
+2} Scroll down and Click on - MySQL Community (GPL) Downloads »
+3} Click on - MySQL Installer for Windows
+4} Select the link - (mysql-installer-community-8.0.28.0.msi)
+5} After the download, open the installer and select "CUSTOM" installer.
+6} Select MySQL servers -> MySQL server -> MySQL server 8.0 -> MySQL server 8.0.28 x64
+7} Select Applications -> MySQL Workbench -> MySQL Workbench 8.0 -> MySQL Workbench 8.0.28 x64
+8} Click on next and execute.
+9} Whatever popup shows during installation, accept the terms and click in install.
+10} Once the STATUS column shows as done, click on Next and Execute.
+11} Just click on next and let the installation happen.
+12} Select "development computer" as the config type of computer.
+13} Tick "TCP/IP", PORT - "3306", XPROTOCOL - "33060", Tick "open windows firewall ports for network access".
+14} Click next until you land "accounts and role" section.
+15} Set Root password as "root".
+16} Click next and then execute.
+17} Finish the installation.
